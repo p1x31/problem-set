@@ -11,6 +11,4 @@ int main()
     long long l = ceil((double) m/a);
     cout << k * l;
     //cout << k << " " << l;
-    
-    
 }
